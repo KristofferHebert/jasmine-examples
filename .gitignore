@@ -2,3 +2,5 @@ node_modules
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+.lib
+.jasmine_examples
